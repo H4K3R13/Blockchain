@@ -8,4 +8,4 @@ npm install \
 truffle compile \
 truffle test 
 truffle migrate or truffle migrate --reset \
-npm run dev \
+npm run dev 
